@@ -1,5 +1,0 @@
-print("A")
-print("\n\n\n\n\n")
-print("B")
-print("\n"*5)
-print("C")
